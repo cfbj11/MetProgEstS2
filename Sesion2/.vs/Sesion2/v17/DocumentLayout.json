@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsUAMS2\\Sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6659461C-EC80-45ED-B6AC-C89D9CBCF0E4}|Sesion2\\Sesion2.csproj|c:\\csuams2\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6659461C-EC80-45ED-B6AC-C89D9CBCF0E4}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6659461C-EC80-45ED-B6AC-C89D9CBCF0E4}|Sesion2\\Sesion2.csproj|c:\\csuams2\\sesion2\\sesion2\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6659461C-EC80-45ED-B6AC-C89D9CBCF0E4}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\CsUAMS2\\Sesion2\\Sesion2\\clase\\Persona.cs",
+              "RelativeDocumentMoniker": "Sesion2\\clase\\Persona.cs",
+              "ToolTip": "C:\\CsUAMS2\\Sesion2\\Sesion2\\clase\\Persona.cs",
+              "RelativeToolTip": "Sesion2\\clase\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:36:17.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsUAMS2\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion2\\Program.cs",
+              "ToolTip": "C:\\CsUAMS2\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeToolTip": "Sesion2\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:33:48.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

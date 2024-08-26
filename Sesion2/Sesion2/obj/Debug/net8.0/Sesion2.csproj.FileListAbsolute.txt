@@ -1,0 +1,14 @@
+C:\CsUAMS2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.exe
+C:\CsUAMS2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.deps.json
+C:\CsUAMS2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.runtimeconfig.json
+C:\CsUAMS2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.dll
+C:\CsUAMS2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.pdb
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfoInputs.cache
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfo.cs
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.csproj.CoreCompileInputs.cache
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.dll
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\refint\Sesion2.dll
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.pdb
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.genruntimeconfig.cache
+C:\CsUAMS2\Sesion2\Sesion2\obj\Debug\net8.0\ref\Sesion2.dll
